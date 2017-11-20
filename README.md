@@ -13,4 +13,4 @@ This project was an experiment with a two goals:
 2. To work out a more modern way to lay out my module projects, without going overboard.
 
 
-This project is missing 'build' support via psake or invoke-build. I don't release much of anything publically, so that hasn't been an issue for me.
+This project is missing 'build' support via psake or invoke-build. I don't release much of anything publically, so I have never bothered with any of that..
